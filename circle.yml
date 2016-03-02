@@ -8,11 +8,11 @@ deployment:
     branch: master
     owner: nymag
     codedeploy:
-      sites:
+      newsiebot:
         deployment_group: bots-qa
   prd:
     tag: /v[0-9]+\.[0-9]+\.[0-9]+/
     owner: nymag
     codedeploy:
-      sites:
+      newsiebot:
         deployment_group: bots-prd
