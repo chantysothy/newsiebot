@@ -5,6 +5,7 @@
   "description": "A simple bot that announces when articles are published",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Info: no test specified\" && exit 0",
     "start": "node index.js"
   },
   "repository": {
