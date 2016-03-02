@@ -1,0 +1,18 @@
+machine:
+  timezone:
+    America/New_York
+  node:
+    version: 4.3.1
+deployment:
+  qa:
+    branch: master
+    owner: nymag
+    codedeploy:
+      sites:
+        deployment_group: bots-qa
+  prd:
+    tag: /v[0-9]+\.[0-9]+\.[0-9]+/
+    owner: nymag
+    codedeploy:
+      sites:
+        deployment_group: bots-prd
