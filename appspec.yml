@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
  - source: /
-   destination: /var/lib/nodejs/sites
+   destination: /var/lib/nodejs/newsiebot
 hooks:
   ApplicationStop:
     - location: ./scripts/aws/ApplicationStop.sh
