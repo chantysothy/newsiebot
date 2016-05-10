@@ -5,6 +5,11 @@ Currently supports these sites:
 
 * Science of Us
 * Select All
+* Daily Intelligencer
+* The Cut
+* New York Magazine
+* Grubstreet
+* Vulture
 
 ## Usage
 
