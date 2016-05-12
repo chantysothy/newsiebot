@@ -10,6 +10,7 @@ Currently supports these sites:
 * New York Magazine
 * Grubstreet
 * Vulture
+* Beta Male
 
 ## Usage
 
