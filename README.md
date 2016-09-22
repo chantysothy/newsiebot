@@ -11,6 +11,7 @@ Currently supports these sites:
 * Grubstreet
 * Vulture
 * Beta Male
+* The Strategist
 
 ## Usage
 
