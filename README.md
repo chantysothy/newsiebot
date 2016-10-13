@@ -12,6 +12,7 @@ Currently supports these sites:
 * Vulture
 * Beta Male
 * The Strategist
+* The Vindicated
 
 ## Usage
 
