@@ -13,6 +13,7 @@ Currently supports these sites:
 * Beta Male
 * The Strategist
 * The Vindicated
+* Speed
 
 ## Usage
 
