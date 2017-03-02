@@ -14,6 +14,7 @@ Currently supports these sites:
 * The Strategist
 * The Vindicated
 * Speed
+* The Job
 
 ## Usage
 
