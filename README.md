@@ -15,6 +15,7 @@ Currently supports these sites:
 * The Vindicated
 * Speed
 * The Job
+* Travel
 
 ## Usage
 
